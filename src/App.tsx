@@ -2,7 +2,7 @@
 import './App.css'
 import LandingPage from './landingPage';
 import Navbar from './navBar';
-import Navbar from './syllabus;
+import Syllabus from './syllabus
 function App() {
   return (
     <>

@@ -1,6 +1,6 @@
 const Syllabus = () => {
     return (
-        <nav className="syllabus">
+        <>
             <ul>
                 <li>HTML</li>
                 <li>CSS</li>
@@ -9,7 +9,7 @@ const Syllabus = () => {
                 <li>SQL</li>
                 <li>React</li>
             </ul>
-        </nav>
+        </>
     );
 };
 
