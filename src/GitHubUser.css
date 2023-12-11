@@ -1,0 +1,32 @@
+/* Style for the container holding the input and user data */
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+/* Style for the input field */
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    font-size: 16px;
+}
+
+/* Style for the user data display */
+.user-data {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.user-data h2 {
+    margin-bottom: 10px;
+}
+
+.user-data p {
+    margin-bottom: 5px;
+}
